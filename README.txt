@@ -1,3 +1,5 @@
+This is a Decision Tree Project that I completed in my CSCI 200 Data Structures and Algorithms class at Brown, with my classmate and friend Luke Wilkinson. It serves as a ML algorithm that correctly determines decisions based on previous BSTs. 
+
 This repository contains the following Java files:
 
 AttributeNode: A Class which represents a Node in a decision tree. This Class implements the ITreeNode Interface.
